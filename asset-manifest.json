@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.1f70c76f.css",
-    "main.js": "/react-gh-pages/static/js/main.ed70e6ec.js",
-    "static/media/cv.pdf": "/react-gh-pages/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/portfolio1.jpg": "/react-gh-pages/static/media/portfolio1.a8dba48e676a30d455e0.jpg",
-    "static/media/me.png": "/react-gh-pages/static/media/me.fce53453a100c3c4ad96.png",
-    "static/media/me-about.jpg": "/react-gh-pages/static/media/me-about.61196974de3660840a53.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.1f70c76f.css.map": "/react-gh-pages/static/css/main.1f70c76f.css.map",
-    "main.ed70e6ec.js.map": "/react-gh-pages/static/js/main.ed70e6ec.js.map"
+    "main.css": "/otto-verse/static/css/main.1f70c76f.css",
+    "main.js": "/otto-verse/static/js/main.421a3605.js",
+    "static/media/cv.pdf": "/otto-verse/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/portfolio1.jpg": "/otto-verse/static/media/portfolio1.a8dba48e676a30d455e0.jpg",
+    "static/media/me.png": "/otto-verse/static/media/me.fce53453a100c3c4ad96.png",
+    "static/media/me-about.jpg": "/otto-verse/static/media/me-about.61196974de3660840a53.jpg",
+    "index.html": "/otto-verse/index.html",
+    "main.1f70c76f.css.map": "/otto-verse/static/css/main.1f70c76f.css.map",
+    "main.421a3605.js.map": "/otto-verse/static/js/main.421a3605.js.map"
   },
   "entrypoints": [
     "static/css/main.1f70c76f.css",
-    "static/js/main.ed70e6ec.js"
+    "static/js/main.421a3605.js"
   ]
 }
